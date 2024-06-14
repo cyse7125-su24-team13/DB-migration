@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/cyse7125-su24-team13/DB-migration/compare/v1.0.2...v1.0.3) (2024-06-14)
+
+
+### Bug Fixes
+
+* added the code ([9ba99f5](https://github.com/cyse7125-su24-team13/DB-migration/commit/9ba99f599c3baf0ed2cb77def918e2f690c989d7))
+
 ## [1.0.2](https://github.com/cyse7125-su24-team13/DB-migration/compare/v1.0.1...v1.0.2) (2024-06-14)
 
 
