@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/cyse7125-su24-team13/DB-migration/compare/v1.0.0...v1.0.1) (2024-06-14)
+
+
+### Bug Fixes
+
+* Update README.md ([2cce90f](https://github.com/cyse7125-su24-team13/DB-migration/commit/2cce90f8f70c431ab420c66fe887d18cdad38005))
+
 # 1.0.0 (2024-06-14)
 
 
