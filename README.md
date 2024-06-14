@@ -25,6 +25,7 @@ This repository contains database migration scripts managed by Flyway. Flyway is
    cd flyway-db-migration
    docker pull flyway/flyway
    flyway migrate
+   
    flyway undo
 
 
