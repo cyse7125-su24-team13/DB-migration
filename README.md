@@ -25,6 +25,7 @@ This repository contains database migration scripts managed by Flyway. Flyway is
    git clone https://github.com/yourusername/flyway-db-migration.git
    cd flyway-db-migration
    docker pull flyway/flyway
+   
    flyway migrate
    
    flyway undo
