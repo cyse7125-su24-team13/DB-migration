@@ -1,3 +1,4 @@
+
 # Flyway DB Migration Repository
 
 This repository contains database migration scripts managed by Flyway. Flyway is an open-source database migration tool that helps to version control your database schema and apply changes consistently across different environments.
@@ -26,6 +27,4 @@ This repository contains database migration scripts managed by Flyway. Flyway is
    docker pull flyway/flyway
    flyway migrate
    flyway undo
-
-
 
